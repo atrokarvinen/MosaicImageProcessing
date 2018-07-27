@@ -1,0 +1,4 @@
+C:\Users\karviatr\source\repos\MosaicImage\MosaicImage\bin\Debug\c24330829813_944c817720_b.jpg
+C:\Users\karviatr\Documents\Projektit\Apuohjelmat\NeuralNetworks\CatsAndDogsData\Train2000\cats
+20
+20

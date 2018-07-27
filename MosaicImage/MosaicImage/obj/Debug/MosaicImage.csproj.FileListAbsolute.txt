@@ -1,0 +1,17 @@
+C:\Users\karviatr\source\repos\MosaicImage\MosaicImage\bin\Debug\MosaicImage.exe.config
+C:\Users\karviatr\source\repos\MosaicImage\MosaicImage\bin\Debug\MosaicImage.exe
+C:\Users\karviatr\source\repos\MosaicImage\MosaicImage\bin\Debug\MosaicImage.pdb
+C:\Users\karviatr\source\repos\MosaicImage\MosaicImage\bin\Debug\AForge.Imaging.dll
+C:\Users\karviatr\source\repos\MosaicImage\MosaicImage\bin\Debug\AForge.dll
+C:\Users\karviatr\source\repos\MosaicImage\MosaicImage\bin\Debug\AForge.Math.dll
+C:\Users\karviatr\source\repos\MosaicImage\MosaicImage\bin\Debug\AForge.Imaging.xml
+C:\Users\karviatr\source\repos\MosaicImage\MosaicImage\bin\Debug\AForge.xml
+C:\Users\karviatr\source\repos\MosaicImage\MosaicImage\bin\Debug\AForge.Math.xml
+C:\Users\karviatr\source\repos\MosaicImage\MosaicImage\obj\Debug\MosaicImage.csprojAssemblyReference.cache
+C:\Users\karviatr\source\repos\MosaicImage\MosaicImage\obj\Debug\MosaicImage.MosaicUI.resources
+C:\Users\karviatr\source\repos\MosaicImage\MosaicImage\obj\Debug\MosaicImage.Properties.Resources.resources
+C:\Users\karviatr\source\repos\MosaicImage\MosaicImage\obj\Debug\MosaicImage.csproj.GenerateResource.cache
+C:\Users\karviatr\source\repos\MosaicImage\MosaicImage\obj\Debug\MosaicImage.csproj.CoreCompileInputs.cache
+C:\Users\karviatr\source\repos\MosaicImage\MosaicImage\obj\Debug\MosaicImage.csproj.CopyComplete
+C:\Users\karviatr\source\repos\MosaicImage\MosaicImage\obj\Debug\MosaicImage.exe
+C:\Users\karviatr\source\repos\MosaicImage\MosaicImage\obj\Debug\MosaicImage.pdb
